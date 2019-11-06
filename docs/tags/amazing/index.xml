@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>amazing on The DragonSpark Blog, Dawg!</title>
+    <link>https://blog.dragonspark.us/tags/amazing/</link>
+    <description>Recent content in amazing on The DragonSpark Blog, Dawg!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 05 Nov 2019 01:59:56 -0400</lastBuildDate>
+    
+	<atom:link href="https://blog.dragonspark.us/tags/amazing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://blog.dragonspark.us/2019/11/hello-world/</link>
+      <pubDate>Tue, 05 Nov 2019 01:59:56 -0400</pubDate>
+      
+      <guid>https://blog.dragonspark.us/2019/11/hello-world/</guid>
+      <description>Hello world! What is happenin&amp;rsquo;?!
+I&amp;rsquo;m very happy to introduce my latest project and idea:
+The DragonSpark Blog, Dawg! Written with Hugo and utilizing the Bilberry Theme.
+Well, to be sure, the blog isn&amp;rsquo;t the idea, but it will be used to tell you about it in the next few rounds (and probably more 😇) of development.
+So What&amp;rsquo;s Up? I&amp;rsquo;ve had what you can say is an epiphany of sorts with my general direction in life.</description>
+    </item>
+    
+  </channel>
+</rss>
