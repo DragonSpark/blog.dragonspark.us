@@ -5,10 +5,21 @@
     <link>https://blog.dragonspark.us/articles/</link>
     <description>Recent content on The DragonSpark Blog, Dawg!</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 05 Nov 2019 01:59:56 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2019 04:17:56 -0500</lastBuildDate>
     
 	<atom:link href="https://blog.dragonspark.us/articles/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>November 2019 Status Update</title>
+      <link>https://blog.dragonspark.us/2019/11/november-2019-status-update/</link>
+      <pubDate>Wed, 06 Nov 2019 04:17:56 -0500</pubDate>
+      
+      <guid>https://blog.dragonspark.us/2019/11/november-2019-status-update/</guid>
+      <description>Alright! There is a lot to cover here, so let&amp;rsquo;s get started.
+The DragonSpark Framework What has brought me to this current status? Well, it all started when I had a framework that I was working on known as The DragonSpark Framework. It had active development until late 2016. At this time I took interest in assisting in another repository, the ExtendedXmlSerializer v2.
+ExtendedXmlSerializer v2 Building ExtendedXmlSerializer was my first foray into open source software collaboration, and I learned a lot from it.</description>
+    </item>
     
     <item>
       <title>Hello World!</title>

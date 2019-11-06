@@ -1,12 +1,12 @@
 ---
 title: "November 2019 Status Update"
-date: 2019-11-05T06:17:56-05:00
+date: 2019-11-06T04:17:56-05:00
 categories: [etc]
 tags: [status]
 author: Mike-EEE
 authors: [Mike-EEE]
 featuredImage: ''
-draft: true
+draft: false
 ---
 
 Alright!  There is a lot to cover here, so let's get started.
